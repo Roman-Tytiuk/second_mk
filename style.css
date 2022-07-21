@@ -83,7 +83,7 @@ li {
 } 
 .slider {
     overflow: hidden;
-    background: url(img/slider.png)center no-repeat;
+    background: url(slider.png) center no-repeat;
     height: 400px;
     width: 100%;
     background-color: #f8f8f8;
