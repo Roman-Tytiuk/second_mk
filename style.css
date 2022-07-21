@@ -110,7 +110,7 @@ li {
 .news_list p {
     color: white;
     text-align:left;
-    margin-right: 50px;
+    margin-right: 35px;
     margin-left: 20px;
     line-height: 1.5;
 }
@@ -121,6 +121,7 @@ li {
 .archive  {
     text-decoration: underline;
     padding-left: 200px;
+    margin-right: 0;
   
 }
 .about_company {
